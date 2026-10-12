@@ -9,7 +9,13 @@ public class Main {
 		SpringApplication.run(Main.class, args);
 		System.out.println();
 		System.out.println("----------------------------------------");
+		System.out.println("----------------------------------------");
+		System.out.println("----------------------------------------");
+		System.out.println();
 		System.out.println("READY");
+		System.out.println();
+		System.out.println("----------------------------------------");
+		System.out.println("----------------------------------------");
 		System.out.println("----------------------------------------");
 		System.out.println();
 	}
